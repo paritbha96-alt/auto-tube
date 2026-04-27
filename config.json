@@ -1,0 +1,1 @@
+{\n  "api_keys": {\n    "youtube": "YOUR_YOUTUBE_API_KEY",\n    "vimeo": "YOUR_VIMEO_API_KEY"\n  },\n  "channel_settings": {\n    "channel_name": "YOUR_CHANNEL_NAME",\n    "description": "YOUR_CHANNEL_DESCRIPTION"\n  },\n  "video_parameters": {\n    "resolution": "1080p",\n    "framerate": "30fps",\n    "bitrate": "4500kbps"\n  }\n}
