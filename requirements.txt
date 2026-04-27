@@ -1,0 +1,10 @@
+# Requirements for video automation system
+
+# List of Python dependencies for the video automation system
+
+# Add your dependencies here
+numpy
+pandas
+opencv-python
+requests
+flask
